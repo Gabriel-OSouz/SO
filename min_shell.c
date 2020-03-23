@@ -1,3 +1,20 @@
+/*
+* @file min_shell.c
+* @brief Mini Shell obtendo os comandos (CLS,DIR,TIME,DATE)
+* cls = Permite o usuário a limpar a tela do terminal através deste comando
+* dir = Permite você "nagevar" entre os diretórios do seu computador
+* time = Permite você ver o horário atual
+* date = Permite você ver a data atual
+*
+* Universidade Federal de Uberlândia
+* Exercício de Sistemas Operacionais(SO)
+* @data  22/03/2020
+* @author Gabriel Oliveira Souza 
+*
+* E-mail = gabrieloliveirasouza620@gmail.com
+* 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
