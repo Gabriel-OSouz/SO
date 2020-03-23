@@ -78,7 +78,7 @@ void command_DIR(char agrm[])
                     closedir(arq_list);
                     free(arq_list);
                       
-                } else printf("Erro: arq (opendir)\n");
+                } else error("arq = [função opendir()]");
 }
 
 
