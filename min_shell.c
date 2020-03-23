@@ -16,7 +16,7 @@ int main(int argc,char* argv[])
 
    if(argc > 3)
     {
-       printf("Número de agurmentos ou argumento inválido, tente novamente...\n");
+       printf("Número de argumentos ou argumento inválido, tente novamente...\n");
        exit(1);
     } else {
  
